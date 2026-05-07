@@ -1,0 +1,59 @@
+# Annecy
+
+> Geotechnical engineering company in France, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Amelioration](https://annecy.geotechnique.sbs/amelioration/)
+- [Analyse Granulometrique](https://annecy.geotechnique.sbs/analyse-granulometrique/)
+- [Analyse Liquefaction Sols](https://annecy.geotechnique.sbs/analyse-liquefaction-sols/)
+- [Analyse Pieux Frottement Lateral](https://annecy.geotechnique.sbs/analyse-pieux-frottement-lateral/)
+- [Analyse Reponse Site](https://annecy.geotechnique.sbs/analyse-reponse-site/)
+- [Analyse Stabilite Pentes](https://annecy.geotechnique.sbs/analyse-stabilite-pentes/)
+- [Analyse Tassement Differentiel](https://annecy.geotechnique.sbs/analyse-tassement-differentiel/)
+- [Calcul Coefficient Securite](https://annecy.geotechnique.sbs/calcul-coefficient-securite/)
+- [Caracterisation Sols Residuels](https://annecy.geotechnique.sbs/caracterisation-sols-residuels/)
+- [Cbr Laboratoire](https://annecy.geotechnique.sbs/cbr-laboratoire/)
+- [Cisaillement Direct](https://annecy.geotechnique.sbs/cisaillement-direct/)
+- [Classification Sols](https://annecy.geotechnique.sbs/classification-sols/)
+- [Compression Simple](https://annecy.geotechnique.sbs/compression-simple/)
+- [Conception Chaussees Rigides](https://annecy.geotechnique.sbs/conception-chaussees-rigides/)
+- [Conception Chaussees Souples](https://annecy.geotechnique.sbs/conception-chaussees-souples/)
+- [Conception Compactage Dynamique](https://annecy.geotechnique.sbs/conception-compactage-dynamique/)
+- [Conception Drainage Geotechnique](https://annecy.geotechnique.sbs/conception-drainage-geotechnique/)
+- [Conception Fondations Superficielles](https://annecy.geotechnique.sbs/conception-fondations-superficielles/)
+- [Conception Geotechnique Excavations Profondes](https://annecy.geotechnique.sbs/conception-geotechnique-excavations-profondes/)
+- [Conception Murs Soutenement](https://annecy.geotechnique.sbs/conception-murs-soutenement/)
+- [Conception Murs Terre Armee](https://annecy.geotechnique.sbs/conception-murs-terre-armee/)
+- [Conception Parois Moulees](https://annecy.geotechnique.sbs/conception-parois-moulees/)
+- [Conception Pieux Battus](https://annecy.geotechnique.sbs/conception-pieux-battus/)
+- [Conception Plate Forme Routiere](https://annecy.geotechnique.sbs/conception-plate-forme-routiere/)
+- [Conception Radier General](https://annecy.geotechnique.sbs/conception-radier-general/)
+- [Conception Rideaux Palplanches](https://annecy.geotechnique.sbs/conception-rideaux-palplanches/)
+- [Conception Vibrocompactage](https://annecy.geotechnique.sbs/conception-vibrocompactage/)
+- [Cone Penetration Test](https://annecy.geotechnique.sbs/cone-penetration-test/)
+- [Consolidation Œdometrique](https://annecy.geotechnique.sbs/consolidation-œdometrique/)
+- [Drainage Routier Geotechnique](https://annecy.geotechnique.sbs/drainage-routier-geotechnique/)
+- [Essais In Situ](https://annecy.geotechnique.sbs/essais-in-situ/)
+- [Etude Mecanique Sols](https://annecy.geotechnique.sbs/etude-mecanique-sols/)
+- [Excavations Souterraines](https://annecy.geotechnique.sbs/excavations-souterraines/)
+- [Exploration](https://annecy.geotechnique.sbs/exploration/)
+- [Fondations](https://annecy.geotechnique.sbs/fondations/)
+- [Geotechnique Routiere](https://annecy.geotechnique.sbs/geotechnique-routiere/)
+- [Laboratoire](https://annecy.geotechnique.sbs/laboratoire/)
+- [Microzonage Sismique](https://annecy.geotechnique.sbs/microzonage-sismique/)
+- [Normal Modifie](https://annecy.geotechnique.sbs/normal-modifie/)
+- [Pentes Et Murs](https://annecy.geotechnique.sbs/pentes-et-murs/)
+- [Permeabilite Laboratoire](https://annecy.geotechnique.sbs/permeabilite-laboratoire/)
+- [Plaque Charge](https://annecy.geotechnique.sbs/plaque-charge/)
+- [Puits Dexploration](https://annecy.geotechnique.sbs/puits-dexploration/)
+- [Remediation Sols Contamines](https://annecy.geotechnique.sbs/remediation-sols-contamines/)
+- [Sismique](https://annecy.geotechnique.sbs/sismique/)
+- [Specification Geogrilles](https://annecy.geotechnique.sbs/specification-geogrilles/)
+- [Standard Penetration Test](https://annecy.geotechnique.sbs/standard-penetration-test/)
+
+## Contact
+- Website: https://annecy.geotechnique.sbs/
+
+## About
+This page provides information about geotechnical engineering services available in France.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
